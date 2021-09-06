@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sahmwanga/sahmwanga.github.io.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/sahmwanga/sahmwanga.github.io.git/static/js/main.75f2621c.chunk.js",
+    "main.js.map": "/sahmwanga/sahmwanga.github.io.git/static/js/main.75f2621c.chunk.js.map",
+    "runtime-main.js": "/sahmwanga/sahmwanga.github.io.git/static/js/runtime-main.ccd90d18.js",
+    "runtime-main.js.map": "/sahmwanga/sahmwanga.github.io.git/static/js/runtime-main.ccd90d18.js.map",
+    "static/js/2.39824c94.chunk.js": "/sahmwanga/sahmwanga.github.io.git/static/js/2.39824c94.chunk.js",
+    "static/js/2.39824c94.chunk.js.map": "/sahmwanga/sahmwanga.github.io.git/static/js/2.39824c94.chunk.js.map",
+    "static/js/3.606fba87.chunk.js": "/sahmwanga/sahmwanga.github.io.git/static/js/3.606fba87.chunk.js",
+    "static/js/3.606fba87.chunk.js.map": "/sahmwanga/sahmwanga.github.io.git/static/js/3.606fba87.chunk.js.map",
+    "index.html": "/sahmwanga/sahmwanga.github.io.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sahmwanga/sahmwanga.github.io.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.39824c94.chunk.js.LICENSE.txt": "/sahmwanga/sahmwanga.github.io.git/static/js/2.39824c94.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sahmwanga/sahmwanga.github.io.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd90d18.js",
+    "static/js/2.39824c94.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.75f2621c.chunk.js"
+  ]
+}
