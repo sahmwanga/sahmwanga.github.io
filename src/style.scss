@@ -1,0 +1,47 @@
+/*********************************************/
+/*             CUSTOM CSS           "/
+/*********************************************/
+
+.social-icons{
+    margin-bottom: 12px;
+    display: flex;
+    div {
+        padding-left:18px;
+    }
+}
+
+
+/*********************************************/
+/*              MEDIA QUERIES CSS           "/
+/*********************************************/
+ 
+@media only screen and (min-width: 994px) and (max-width: 1398px) and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+ 
+@media only screen and (min-width: 767px) and (max-width: 1196px) and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+ 
+@media only screen and (min-width: 500px) and (max-width: 766px) and (-webkit-min-device-pixel-ratio: 1) {
+    
+}
+ 
+@media only screen and (min-width: 360px) and (max-width: 499px) and (-webkit-min-device-pixel-ratio: 1) {
+ 
+}
+ 
+@media only screen and (max-width: 359px) {
+   
+}
+
+
+/*****************************************/
+/*          CUSTOMIZED DEFAULT           */
+/*****************************************/
+
+$body-bg: #eeeeee;
+$body-color: #999999;
+$primary: #008080;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
